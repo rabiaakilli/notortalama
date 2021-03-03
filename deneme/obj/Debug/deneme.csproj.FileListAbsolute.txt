@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\Acer\Desktop\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\Acer\Desktop\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\Acer\Desktop\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\Acer\Desktop\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\Acer\Desktop\Yeni klasör (2)\C#\20 öğrencinin mat ortalamasını alma\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Yeni klasör (2)\C#\20 öğrencinin mat ortalamasını alma\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Yeni klasör (2)\C#\20 öğrencinin mat ortalamasını alma\deneme\obj\Debug\deneme.exe
+C:\Users\Acer\Desktop\Yeni klasör (2)\C#\20 öğrencinin mat ortalamasını alma\deneme\obj\Debug\deneme.pdb
